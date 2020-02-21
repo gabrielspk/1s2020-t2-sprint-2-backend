@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Peoples.WebApi", "Senai.Peoples.WebApi\Senai.Peoples.WebApi.csproj", "{92315EA7-56A1-496D-9C57-6BB867C37FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92315EA7-56A1-496D-9C57-6BB867C37FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92315EA7-56A1-496D-9C57-6BB867C37FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92315EA7-56A1-496D-9C57-6BB867C37FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92315EA7-56A1-496D-9C57-6BB867C37FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A70328-AB2A-4AE1-9692-9E48ADE768DB}
+	EndGlobalSection
+EndGlobal
